@@ -3,7 +3,7 @@
     --------------------------------------------------------------------
     Purpose:
         1. Truncate all Bronze tables.
-        2. Load CSV files into the Bronze tables.
+        2. Load CSV files into the Bronze tables using BULK Insert.
         3. Display progress messages.
         4. Handle errors using TRY...CATCH.
 =====================================================================*/
